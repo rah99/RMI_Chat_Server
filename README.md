@@ -27,3 +27,5 @@ user2
 1234
 ```
 #### Enter message at the prompt
+
+## Resources and acknowledgements
