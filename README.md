@@ -2,7 +2,7 @@
 
 ## Using RMI Program
 
-### NOTE - Was built using Mavern and has dependencies in the pom.xml
+### NOTE - Was built using Mavern in Eclipse (all dependencies in the pom.xml)
 ```
 Start the RMI Server
 ```
